@@ -10,7 +10,7 @@ The Odin Project - Intermediate HTML & CSS - Project: Admin Dashboard
 
 ## Official project
 
-https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard
+https://amala2118.github.io/admin.dashboard/
 
 ## Design reference
 
